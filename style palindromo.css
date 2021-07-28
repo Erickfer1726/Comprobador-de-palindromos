@@ -1,0 +1,28 @@
+body {
+    font-weight: normal;
+    background: url('https://static.vecteezy.com/system/resources/previews/002/303/937/non_2x/abstract-gray-background-with-wavy-lines-vector.jpg') no-repeat;
+    text-align: center;
+    margin: 15%;
+    border: 15%
+   }
+   
+   .contenedor{
+    width: 50%;
+    margin: 0 auto;
+    border: 2px solid rgb(0, 26, 255);
+    padding-top: 2%;
+    padding-bottom: 2%;
+   }
+
+   button{
+       color:rgb(0, 0, 0);
+       background-color: rgb(202, 202, 202);
+       padding: auto;
+   }
+   h1{
+       color:rgb(38, 0, 255);
+   }
+
+   h2{
+       color: rgb(0, 0, 0);
+   }
